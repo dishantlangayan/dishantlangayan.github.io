@@ -44,7 +44,7 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/dishantlangayan/dishantlangayan.github.io/blob/master/',
+            'https://github.com/dishantlangayan/dishantlangayan.github.io/blob/master/sc-cli/',
         },
         blog: false,
         theme: {
