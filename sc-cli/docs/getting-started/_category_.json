@@ -4,5 +4,7 @@
   "link": {
     "type": "generated-index",
     "description": "Installation and configuration guide."
-  }
+  },
+  "collapsible": true,
+  "collapsed": false
 }
