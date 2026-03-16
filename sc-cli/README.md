@@ -1,9 +1,6 @@
-<<<<<<< HEAD
-# dishantlangayan.github.io
-=======
-# Website
+# Solace Cloud CLI Docs
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+This documentation is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
 
 ## Installation
 
@@ -42,4 +39,16 @@ GIT_USER=<Your GitHub username> yarn deploy
 ```
 
 If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
->>>>>>> 2738e7c (Initial commit)
+
+# Contributing
+Contributions are encouraged! Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
+
+<!-- contributingstop -->
+# Authors
+<!-- authors -->
+See the list of [contributors](https://github.com/dishantlangayan/dishantlangayan.github.io/graphs/contributors) who participated in this project.
+
+<!-- authorsstop -->
+# License
+<!-- license -->
+See the [LICENSE](LICENSE.txt) file for details.
