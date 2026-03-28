@@ -88,12 +88,12 @@ const config: Config = {
           title: 'Docs',
           items: [
             {
-              label: 'Docs',
-              to: '/docs/intro',
+              label: 'Get Started in 5 mins',
+              to: '/docs/intro#fast-track',
             },
             {
-              label: 'Quick Start',
-              to: '/docs/intro#fast-track',
+              label: 'Getting Started',
+              to: '/docs/category/getting-started',
             },
           ],
         },
@@ -124,7 +124,7 @@ const config: Config = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} Dishant Langayan. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Dishant Langayan.`,
     },
     prism: {
       theme: prismThemes.github,
