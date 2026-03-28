@@ -59,14 +59,14 @@ sc platform env list --org MyAccountName
 
 ### Setting the Default Org
 
-When you login you can also specific the org as being the default for command to use.
+When you login, you can specify an org as the default for command to use.
 
 ```bash
 sc account login --org <Your Account Name> --set-default
 ```
 
 :::tip
-This is useful if you only have one account you are working with and avoid having to specify the `--org` flag in every command.
+This is useful if you only have one account to work with and avoids having to specify the `--org` flag in every command.
 :::
 
 ## Org Alias
